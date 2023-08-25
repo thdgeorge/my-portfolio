@@ -1,0 +1,11 @@
+{
+  "name": "george-theodorou-portfolio",
+  "short_name": "george-theodorou-portfolio",
+  "icons": [
+    {"src": "/favicon.png", "type": "image/png", "sizes": "192x192"},
+    {"src": "/favicon.png", "type": "image/png", "sizes": "512x512"}
+  ],
+  "theme_color": "#515455",
+  "background_color": "#515455",
+  "display": "standalone"
+}
